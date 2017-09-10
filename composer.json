@@ -1,0 +1,12 @@
+{
+    "name": "timneutkens/wordpress-remove-generator-meta",
+    "description": "Remove generator meta tag from <head>",
+    "type": "wordpress-muplugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Neutkens",
+            "email": "tim@weprovide.com"
+        }
+    ]
+}
